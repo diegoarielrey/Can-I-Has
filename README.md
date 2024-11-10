@@ -23,3 +23,11 @@ Includes widget functionality for quick and easy access to calorie budgets and m
 
 ## License
 This project is licensed under the MIT License.
+
+## App Screenshots
+
+![Screenshot 1](images/IMG_8605.png)
+![Screenshot 2](images/IMG_8606.png)
+![Screenshot 3](images/IMG_8607.png)
+![Screenshot 4](images/IMG_8608.png)
+![Screenshot 5](images/IMG_8609.png)
